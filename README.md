@@ -39,7 +39,7 @@ Também disponibilizei um vídeo demonstrando o funcionamento da API na prática
 
 O vídeo apresenta os testes dos endpoints e permite visualizar o funcionamento das operações CRUD desenvolvidas durante a atividade.
 
-**[Assistir à demonstração da API]()**
+**[Assistir à demonstração da API](https://youtu.be/Z8y6vKCtnOM)**
 
 ## 💻 Como executar o projeto
 
